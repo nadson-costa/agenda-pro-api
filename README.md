@@ -39,7 +39,7 @@ Graças à containerização com Docker, o ambiente de desenvolvimento pode ser 
 
 1. **Clone o repositório:**
     ```bash
-    git clone [https://github.com/nadson-costa/agenda-pro-api.git](https://github.com/nadson-costa/agenda-pro-api.git)
+    git clone https://github.com/nadson-costa/agenda-pro-api.git
     cd agenda-pro-api
     ```
 2. **Crie o arquivo `.env`** a partir do exemplo `.env.example` (você precisará criar este arquivo de exemplo).
